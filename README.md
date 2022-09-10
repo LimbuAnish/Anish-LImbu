@@ -1,6 +1,8 @@
 <h3 align="center">Game Devloper</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I am a Game developer with more than 3 years of professional experience in Unity and unreal Engine, mobile and standalone development. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance. In other words, I can do everything you need to build your app from the ground up and get it on the market, I can fix bugs add new features to your already existing apps, and refactor messy code.
+
+My passion is game development. Using Unity and Unreal Engine. I can focus on multiple projects at once and troubleshoot problems quickly. Client relationships and high quality are top priorities for me. I am always open to different opportunities in development.</h3>
 <p align="left">
 </p>
 
