@@ -1,4 +1,4 @@
-<h4 align="center">Game Devloper</h4>
+<h4 align="center">Game Developer</h4>
 
 <h4 align="left">I am a Game developer with more than 3 years of professional experience in Unity and unreal Engine, mobile and standalone development. I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance. In other words, I can do everything you need to build your app from the ground up and get it on the market, I can fix bugs add new features to your already existing apps, and refactor messy code.
 
